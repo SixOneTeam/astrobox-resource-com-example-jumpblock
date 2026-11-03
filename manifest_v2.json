@@ -1,0 +1,74 @@
+{
+  "item": {
+    "id": "com.example.jumpblock",
+    "restype": "quick_app",
+    "name": "跃动方块",
+    "description": "超级解压的方块小游戏\n你能拿几分？",
+    "preview": [
+      "media/Vela_Virtual_Device2-2026-10-29-22-20-32@2x.png",
+      "media/4361f674fe416aa3201880ec907b72a8@2x.png",
+      "media/673e8c01e06a47150764aafcfb07918b@2x.png",
+      "media/aa0306f7f216ccdc0d4282f8802a29e0@2x.png",
+      "media/45af33337ac8ec4218835dbaec044099@2x.png",
+      "media/dedb7cbda04f0688648d01a6c5fadb55@2x.png"
+    ],
+    "icon": "media/跃动方块.png",
+    "cover": "media/跃动方块宣传图@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "跃动方块密钥购买链接",
+      "url": "https://afdian.com/item/1e420308d7a111f19de15254001e7c00?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    },
+    {
+      "title": "跃动方块QQ交流群",
+      "url": "https://qm.qq.com/q/XbYaSCwaoG",
+      "icon": "wechat-logo"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/跃动方块-小米10-11.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/跃动方块-小米10-11.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/跃动方块-小米9Pro-10Pro.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/跃动方块-小米10-11.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/跃动方块-小米10-11.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/跃动方块-小米9.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/跃动方块-小米9Pro-10Pro.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
