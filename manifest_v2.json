@@ -36,37 +36,37 @@
   "downloads": {
     "xmb10": {
       "version": "1.0.0",
-      "file_name": "downloads/跃动方块-小米10-11.rpk",
+      "file_name": "downloads/跃动方块-小米10-11-release.rpk",
       "versionCode": 1
     },
     "xmb10nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/跃动方块-小米10-11.rpk",
+      "file_name": "downloads/跃动方块-小米10-11-release.rpk",
       "versionCode": 1
     },
     "xmb10p": {
       "version": "1.0.0",
-      "file_name": "downloads/跃动方块-小米9Pro-10Pro.rpk",
-      "versionCode": 1
-    },
-    "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/跃动方块-小米10-11.rpk",
+      "file_name": "downloads/跃动方块-小米9Pro-10Pro-release.rpk",
       "versionCode": 1
     },
     "xmb11nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/跃动方块-小米10-11.rpk",
+      "file_name": "downloads/跃动方块-小米10-11-release.rpk",
       "versionCode": 1
     },
     "xmb9": {
       "version": "1.0.0",
-      "file_name": "downloads/跃动方块-小米9.rpk",
+      "file_name": "downloads/跃动方块-小米9-release.rpk",
       "versionCode": 1
     },
     "xmb9p": {
       "version": "1.0.0",
-      "file_name": "downloads/跃动方块-小米9Pro-10Pro.rpk",
+      "file_name": "downloads/跃动方块-小米9Pro-10Pro-release.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/跃动方块-小米10-11-release.rpk",
       "versionCode": 1
     }
   },
